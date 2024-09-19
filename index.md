@@ -18,6 +18,10 @@ Kitten Ipsum dolor sit amet discovered siamesecalico peaceful her Gizmo peaceful
 + Each police box is named after the street where they are located.
 + For more information about the book's reference see data source.
 
+#### About me:
+Hey! I'm currently a Ph.D. candidate at the University of York and I'm based in Edinburgh full-time. My research focuses on public transportation systems in Mexico through a gender perspective. In my free time I love carving and printmaking, walking, reading, and cycling.
+You can read a bit more about my work here: <https://www.york.ac.uk/politics/phd-study/research-students/diana-infante-vargas/>. Want to reach out? Email me at: <dpiv500@york.ac.uk>
+
 To see more about the location of police boxes around Edinburgh you can check out my map at: <https://www.google.com/maps/d/u/0/edit?mid=1S22KuP88Kj7Uh_EFsUsS6Y4F4mdZ6O0&usp=sharing>. 
 To see more about my urban adventures follow me on <https://www.instagram.com/holasoydiana/>
 
