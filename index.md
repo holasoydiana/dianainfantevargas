@@ -1,5 +1,7 @@
-## Hi, this is my first-ever website!
+## Hi, welcome to my first-ever website!
 ### I'm really into police boxes and I've been documenting them for the past 9 months. Welcome to my journey :) 
+
+##### About a year and a half ago I bought a book about police boxes at Typewronger Bookshop, and it has kickstarted this whole thing. I'm really intrigued by the premise that police boxes can be repurposed to become spaces for community and engagement so I've started documenting the existing police boxes in Edinburgh. 
 
 ![Here's Laura at the East Montgomery St police box](/eastmontgomeryst.jpeg)
 
