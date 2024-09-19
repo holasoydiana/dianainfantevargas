@@ -14,6 +14,8 @@ Kitten Ipsum dolor sit amet discovered siamesecalico peaceful her Gizmo peaceful
   + Orange = this police box is part of the book's reference but I have not visited it yet, the police box may or may not exist in the location of the dropped pin.
   + Purple = I have not visited this police box yet **but it is not listed within the book's reference**, I know the box exists because I have seen it or heard about it by someone else, but I've not logged it yet.
   + Black = the police box no longer exists (rip).
++ Each police box is named after the street where they are located.
++ For more information about the book's reference see data source.
 
 To see more about the location of police boxes around Edinburgh you can check out my map at: <https://www.google.com/maps/d/u/0/edit?mid=1S22KuP88Kj7Uh_EFsUsS6Y4F4mdZ6O0&usp=sharing>. 
 To see more about my urban adventures follow me on <https://www.instagram.com/holasoydiana/>
