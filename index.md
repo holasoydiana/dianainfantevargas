@@ -13,5 +13,5 @@ To see more about my urban adventures follow me on <https://www.instagram.com/ho
 
 
 
-###### data source: From cuffs to community. Edinburgh's police boxes by Russell Dalgeish. 
+###### data source: 'From cuffs to community. Edinburgh's police boxes.' By Russell Dalgeish. 
 
