@@ -7,6 +7,14 @@ Kitten Ipsum dolor sit amet discovered siamesecalico peaceful her Gizmo peaceful
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1S22KuP88Kj7Uh_EFsUsS6Y4F4mdZ6O0&ehbc=2E312F" width="640" height="480"></iframe>
 
+#### How do I navigate this map?
++ Every pin represents a police box and they have been colour coded depending on their status:
+  + Light green = this police box is part of the book's reference and I've already logged it in my journal
+  + Dark green = this police box is **not** part of the book's reference, but I found it (either on my own or by someone's reference) and I've already logged it in my journal.
+  + Orange = this police box is part of the book's reference but I have not visited it yet, the police box may or may not exist in the location of the dropped pin.
+  + Purple = I have not visited this police box yet **but it is not listed within the book's reference**, I know the box exists because I have seen it or heard about it by someone else, but I've not logged it yet.
+  + Black = the police box no longer exists (rip).
+
 To see more about the location of police boxes around Edinburgh you can check out my map at: <https://www.google.com/maps/d/u/0/edit?mid=1S22KuP88Kj7Uh_EFsUsS6Y4F4mdZ6O0&usp=sharing>. 
 To see more about my urban adventures follow me on <https://www.instagram.com/holasoydiana/>
 
