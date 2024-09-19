@@ -15,7 +15,7 @@ Kitten Ipsum dolor sit amet discovered siamesecalico peaceful her Gizmo peaceful
   + Light green = this police box is part of the book's reference and I've already logged it in my journal
   + Dark green = this police box is **not** part of the book's reference, but I found it (either on my own or by someone's reference) and I've already logged it in my journal.
   + Orange = this police box is part of the book's reference but I have not visited it yet, the police box may or may not exist in the location of the dropped pin.
-  + Purple = I have not visited this police box yet **but it is not listed within the book's reference**, I know the box exists because I have seen it or heard about it by someone else, but I've not logged it yet.
+  + Purple = I have not visited this police box yet **and it is not listed within the book's reference**. I know the box exists because I have seen it or heard about it by someone else, but I've not logged it yet.
   + Black = the police box no longer exists (rip).
 + Each police box is named after the street where they are located.
 + For more information about the book's reference see data source.
