@@ -1,7 +1,6 @@
 [About me](aboutme.md)  |   [Research](researchpapers.md)  |   [Police Box Hunt](policeboxes.md)   |    [Contact](contactinfo.md) 
 
-## Diana Infante-Vargas
-#### she/her
+## Diana Infante-Vargas (she/her)
 
 <img src="fotoauditoria.jpg" alt="Description" style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover; float: left; margin-right: 10px;">
 
