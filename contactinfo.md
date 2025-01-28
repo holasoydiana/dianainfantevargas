@@ -2,7 +2,7 @@
 
 I am originally from Saltillo, Mexico, and currently based in Edinburgh, UK. 
 
-Interested in working with me? You can reach me by email at: dpiv500@york.ac.uk 
+Interested in working with me? You can reach me by email at: dpiv500[at]york.ac.uk 
 
 
 
