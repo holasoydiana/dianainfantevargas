@@ -4,5 +4,5 @@
 <img src="diana.jpg" alt="Description" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; float: right; margin-left: 10px;">
 
 
-[About me](about.md)  |   [Research](research.md)  |   [Police Box Hunt](policeboxes.md)   |    [Contact](contactinfoa.md) 
+[About me](about.md)  |   [Research](researchpapers.md)  |   [Police Box Hunt](policeboxes.md)   |    [Contact](contactinfoa.md) 
 
