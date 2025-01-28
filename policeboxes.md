@@ -7,7 +7,7 @@
 
 I've been documenting this journey by creating my own map of Edinburgh's police boxes-- I draw from the police boxes listed on the book "From cuffs to community" by Photina_dk and add or update the location of police boxes as needed. The layout of the book has also allowed me to begin a small journal project and I document each police box I visit and sometimes draw diagrams of the urban layout and ideas I come up with for how the police box could facilitate community engagement in the area. 
 
-![Here's a photo of how I've been documenting my journey alongside the book](/<img src="journal.jpg" height="500">)
+!<img src="journal.jpg" alt="Here's a photo of how I've been documenting my journey alongside the book" width="50%">
 
 #### Check out my map:
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1S22KuP88Kj7Uh_EFsUsS6Y4F4mdZ6O0&ehbc=2E312F" width="640" height="480"></iframe>
