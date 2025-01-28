@@ -1,3 +1,5 @@
+[About me](about.md)  |   [Research](researchpapers.md)  |   [Police Box Hunt](policeboxes.md)   |    [Contact](contactinfoa.md) 
+
 ### Hey! Welcome to my police box hunt
 #### I'm really into police boxes and I've been documenting them for the past year. Welcome to my journey :) 
 
