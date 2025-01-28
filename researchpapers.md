@@ -2,7 +2,8 @@
 
 When it comes to women experiencing the city and navigating public spaces, there is an associated fear of crime that heavily relates to fears of sexual assault and harassment. The violence that Mexican women face is one that is reflected in everyday places, from religious centres and parks to street markets. One of the most symbolic examples of violence against women and girls is sexual harassment and assault in public spaces and transportation.
 
-![called libres de acoso](calleslibresdeacoso.jpg)
+<img src="calleslibresdeacoso.jpg" alt="Calles libres de acoso" width="50%">
+
 
 My research focuses on issues of gender-based violence, care work and public transportation. You can download a (free) copy of my papers here: 
 
