@@ -1,3 +1,10 @@
+body {
+  background-image: url('back.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
 ## Diana Infante-Vargas 
 ### Ph.D. Candidate at the University of York and all urban things enthusiast 
 ### Saltillense y arquitecta. Investigo movilidad, género, y ciudades. 🇲🇽
