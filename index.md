@@ -22,7 +22,7 @@ I've been documenting this journey by creating my own map of Edinburgh's police 
 + This map is updated periodically.
 + For more information about the book's reference see data source.
 
-![Is this my favourite police box so far? Yes, yes it is] (/
+![Is this my favourite police box so far? Yes, yes it is] (/favpolicebox.jpeg)
 
 To see more about the location of police boxes around Edinburgh you can check out my map at: <https://www.google.com/maps/d/u/0/edit?mid=1S22KuP88Kj7Uh_EFsUsS6Y4F4mdZ6O0&usp=sharing>. 
 To see more about my urban adventures follow me on <https://www.instagram.com/holasoydiana/>
