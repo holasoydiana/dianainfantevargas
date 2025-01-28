@@ -1,3 +1,5 @@
+[About me](about.md)  |   [Research](researchpapers.md)  |   [Police Box Hunt](policeboxes.md)   |    [Contact](contactinfoa.md) 
+
 ## Research papers
 
 When it comes to women experiencing the city and navigating public spaces, there is an associated fear of crime that heavily relates to fears of sexual assault and harassment. The violence that Mexican women face is one that is reflected in everyday places, from religious centres and parks to street markets. One of the most symbolic examples of violence against women and girls is sexual harassment and assault in public spaces and transportation.
