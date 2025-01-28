@@ -12,4 +12,6 @@ My latest research project applies a mixed-method approach to urban audits and i
 I earned my bachelor’s degree in Architecture from Tecnológico de Monterrey in Mexico and completed my MSc. in International Planning and Urban Design at Cardiff University. I am a Chevening Scholar (2019-2020) and have received other multiple scholarships and awards that have allowed me to access higher education.
 I am passionate about **exploring creative and collaborative outlets** when it comes to researching and envisioning **gender-conscious cities**. My work has been published in journals like Environment and Planning C: Politics and Space; Gender, Place, and Culture; and the Journal of Gender Studies and you can access my work on the tab [research papers.](researchpapers.md)
 
+¿Quieres leerme en español? Colaboro como columnista invitada en la rueda creativa de [Ruedas Rebeldes](https://www.ruedasrebeldes.com/rueda-creativa/) y puedes leer mi sección *Historias Banqueteras.* 🚲
+
 
