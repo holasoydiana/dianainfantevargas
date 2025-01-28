@@ -5,4 +5,4 @@
 
 [About me](about.md)  |   [Research](researchpapers.md)  |   [Police Box Hunt](policeboxes.md)   |    [Contact](contactinfoa.md) 
 
-<img src="diana.jpg" alt="Description" style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover; float: left; margin-right: 10px;">
+<img src="diana2.jpg" alt="Description" style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover; float: left; margin-right: 10px;">
