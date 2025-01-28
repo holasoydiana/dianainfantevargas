@@ -1,8 +1,3 @@
-body {background-image: url('back.jpg');
-  background-size: cover;
-  background-position: center center;
-  background-attachment: fixed; /* Optional: keeps the image fixed while scrolling */}
-
 ## Diana Infante-Vargas
 ### Ph.D. Candidate at the University of York and all urban things enthusiast 
 ### Saltillense y arquitecta. Investigo movilidad, género, y ciudades. 🇲🇽
