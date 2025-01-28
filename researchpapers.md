@@ -22,4 +22,4 @@ My research focuses on issues of gender-based violence, care work and public tra
 
 
 
-- 'These boots are made for walking: a reflexive analysis of negotiating unavoidable risks during fieldwork as a woman.'
+- **'These boots are made for walking: a reflexive analysis of negotiating unavoidable risks during fieldwork as a woman.'**
