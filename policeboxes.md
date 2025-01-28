@@ -3,7 +3,7 @@
 ### Hey! Welcome to my police box hunt
 #### I'm really into police boxes and I've been documenting them for the past year. Welcome to my journey :) 
 
-##### About two ago I bought a book about police boxes at [Typewronger Bookshop](https://www.typewronger.com/), and it has kickstarted this whole thing. I'm intrigued by the premise that police boxes can be repurposed to become spaces for community and engagement so I've started documenting the existing police boxes in Edinburgh. 
+##### About two years ago I bought a book about police boxes at [Typewronger Bookshop](https://www.typewronger.com/), and it has kickstarted this whole thing. I'm intrigued by the premise that police boxes can be repurposed to become spaces for community and engagement so I've started documenting the existing police boxes in Edinburgh. 
 
 <img src="eastmontgomeryst.jpeg" alt="Here's Laura at the East Montgomery St police boxe" width="50%">
 
