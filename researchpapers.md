@@ -1,4 +1,4 @@
-[About me](about.md)  |   [Research](researchpapers.md)  |   [Police Box Hunt](policeboxes.md)   |    [Contact](contactinfo.md) 
+[About me](aboutme.md)  |   [Research](researchpapers.md)  |   [Police Box Hunt](policeboxes.md)   |    [Contact](contactinfo.md) 
 
 ## Research papers
 
