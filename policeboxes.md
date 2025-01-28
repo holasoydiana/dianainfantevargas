@@ -11,6 +11,16 @@ I've been documenting this journey by creating my own map of Edinburgh's police 
 
 <img src="journal.jpg" alt="Here's a photo of how I've been documenting my journey alongside the book" width="50%" style="float: right;">
 
+
+
+
+
+
+
+
+
+
+
 #### Check out my map:
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1S22KuP88Kj7Uh_EFsUsS6Y4F4mdZ6O0&ehbc=2E312F" width="640" height="480"></iframe>
 
