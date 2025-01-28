@@ -21,7 +21,7 @@ My research focuses on issues of gender-based violence, care work and public tra
 
 *Suggested citation: Infante-Vargas, D. and Boyer, K. (2022) ‘“Do you really want to keep going with this?”: reporting gender-based violence in public transportation in Saltillo, Mexico’, Gender, Place & Culture, pp. 1–20. Available at: https://doi.org/10.1080/0966369X.2022.2091521.* 
 
-<a href="holasoydiana/GPC2022_dpiv.pdf" target="_blank">Download File</a>
+<a href="holasoydiana/files/GPC2022_dpiv.pdf" target="_blank">Download File</a>
 
 
 
