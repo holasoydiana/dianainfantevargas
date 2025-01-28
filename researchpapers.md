@@ -13,7 +13,7 @@ My research focuses on issues of gender-based violence, care work and public tra
 
 *Suggested citation: Infante-Vargas, D. and Boyer, K. (2021) ‘Gender-based violence against women users of public transport in Saltillo, Coahuila, Mexico’, Journal of Gender Studies, 31(2), pp. 216–230. Available at: https://doi.org/10.1080/09589236.2021.1915753.* 
 
-<a href="holasoydiana/JGS2021_dpiv.pdf" target="_blank">Download File</a>
+<a href="holasoydiana/files/JGS2021_dpiv.pdf" target="_blank">Download File</a>
 
 
 
