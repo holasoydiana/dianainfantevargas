@@ -11,4 +11,4 @@ Instagram: [@holasoydiana](https://www.instagram.com/holasoydiana/)
 Twitter/X: [@holasoydianamx](https://x.com/holasoydianamx)
 
 
-Soy bilingüe y también recibo y respondo correspondencia en español 🙂
+*Soy bilingüe y también recibo y respondo correspondencia en español* 🙂
