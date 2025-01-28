@@ -1,6 +1,6 @@
-[About me](about.md)  |   [Research](researchpapers.md)  |   [Police Box Hunt](policeboxes.md)   |    [Contact](contactinfoa.md) 
+[About me](aboutme.md)  |   [Research](researchpapers.md)  |   [Police Box Hunt](policeboxes.md)   |    [Contact](contactinfo.md) 
 
-I am currently based in Edinburgh, UK. 
+I am originally from Saltillo, Mexico, and currently based in Edinburgh, UK. 
 
 Interested in working with me? You can reach me by email at: dpiv500@york.ac.uk 
 
