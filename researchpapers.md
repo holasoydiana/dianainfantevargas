@@ -7,7 +7,7 @@ My research focuses on issues of gender-based violence, care work and public tra
 - 'Gender-based violence against women users of public transport in Saltillo, Coahuila, Mexico.' <a href="https://dianainfantevargas.com/JGS2021_dpiv.pdf" target="_blank">Download File</a>
 *Suggested citation: Infante-Vargas, D. and Boyer, K. (2021) ‘Gender-based violence against women users of public transport in Saltillo, Coahuila, Mexico’, Journal of Gender Studies, 31(2), pp. 216–230. Available at: https://doi.org/10.1080/09589236.2021.1915753.*
 
-- 'Do you really want to keep going with this?: reporting gender-based violence in public transportation in Saltillo, Mexico.' <a href="https://dianainfantevargas.com/JGS2021_dpiv.pdf" target="_blank">Download File</a>
+- 'Do you really want to keep going with this?: reporting gender-based violence in public transportation in Saltillo, Mexico.' <a href="JGS2021_dpiv.pdf" target="_blank">Download File</a>
 *Suggested citation: Infante-Vargas, D. and Boyer, K. (2022) ‘“Do you really want to keep going with this?”: reporting gender-based violence in public transportation in Saltillo, Mexico’, Gender, Place & Culture, pp. 1–20. Available at: https://doi.org/10.1080/0966369X.2022.2091521.*
 
 - 'These boots are made for walking: a reflexive analysis of negotiating unavoidable risks during fieldwork as a woman.'
