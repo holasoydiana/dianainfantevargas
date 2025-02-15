@@ -26,7 +26,8 @@ My research focuses on issues of gender-based violence, care work and public tra
 
 
 - **'These boots are made for walking: a reflexive analysis of negotiating unavoidable risks during fieldwork as a woman.'**
-- *Suggested citation: Infante-Vargas, D. and Mesta-Rodríguez, Ó. (2025) ‘These boots are made for walking: A reflexive analysis of negotiating unavoidable risks during fieldwork as a woman’, Environment and Planning C: Politics and Space [Preprint]. Available at: https://doi.org/10.1177/23996544251320266.*
+
+*Suggested citation: Infante-Vargas, D. and Mesta-Rodríguez, Ó. (2025) ‘These boots are made for walking: A reflexive analysis of negotiating unavoidable risks during fieldwork as a woman’, Environment and Planning C: Politics and Space [Preprint]. Available at: https://doi.org/10.1177/23996544251320266.*
 
 <a href="EPC2024_dpiv.pdf" target="_blank">Download File</a>
 
