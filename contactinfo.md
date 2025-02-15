@@ -1,4 +1,4 @@
-[About me](aboutme.md)  |   [Research](researchpapers.md)  |   [Police Box Hunt](policeboxes.md)   |    [Contact](contactinfo.md) 
+[Home](index.md)  |  [About me](aboutme.md)  |   [Research](researchpapers.md)  |   [Police Box Hunt](policeboxes.md)   |    [Contact](contactinfo.md)  
 
 I am originally from Saltillo, Mexico, and currently based in Edinburgh, UK. 
 
