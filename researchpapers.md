@@ -1,6 +1,11 @@
-[Home](index.md)  |  [About me](aboutme.md)  |   [Research](researchpapers.md)  |   [Police Box Hunt](policeboxes.md)   |    [Contact](contactinfo.md) 
+header {
+  display: none;
+}
 
 ## Research papers
+
+[Home](index.md)  |  [About me](aboutme.md)  |   [Research](researchpapers.md)  |   [Police Box Hunt](policeboxes.md)   |    [Contact](contactinfo.md) 
+
 
 When it comes to women experiencing the city and navigating public spaces, there is an associated fear of crime that heavily relates to fears of sexual assault and harassment. The violence that women face is reflected in everyday places, from religious centres and parks to street markets. One of the most symbolic examples of violence against women and girls is sexual harassment and assault in public spaces and transportation.
 
